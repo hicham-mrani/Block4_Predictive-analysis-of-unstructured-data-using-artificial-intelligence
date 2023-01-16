@@ -22,15 +22,7 @@ AT&T has been able to manually flag spam messages for a time, but they are looki
 
 ## 1. Clone the repo :
    ```sh
-   git clone https://github.com/hicham-mrani/Jedha_FullStack_Certification.git
-   ```
-   
-   Open ``Jedha_FullStack_Certification`` project with your IDE and Open your IDE internal terminal.
-   
-## 2. Open AT-T-Spam-Detector project :
-In your internal terminal go to --> ``AT-T-Spam-Detector`` 
-   ```sh
-   cd AT-T-Spam-Detector
+   git clone https://github.com/hicham-mrani/AT-T-Spam-Detector.git
    ```
 
 ## 3. Create a virtual environment :
