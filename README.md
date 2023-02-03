@@ -56,4 +56,6 @@ AT&T has been able to manually flag spam messages for a time, but they are looki
 # Author
 Hicham Mrani - https://github.com/hicham-mrani
 
+Email : hicham.mrani@outlook.fr
+
 Vidéo link : https://share.vidyard.com/watch/hM2RedhbQxyAAxy2k3REuK
